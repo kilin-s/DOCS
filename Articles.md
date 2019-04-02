@@ -20,6 +20,7 @@
 ## Git
 * Article
   * [Github flow](https://habr.com/ru/post/189046/)
+  * [Succesful git branshing model](https://nvie.com/posts/a-successful-git-branching-model)
   
 
 ## Kubernetes

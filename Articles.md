@@ -16,6 +16,10 @@
 ## Alerts
 * Article
   * [My Philosophy on Alerting](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit#heading=h.fs3knmjt7fjy)
+  
+## BASH
+* Article
+  * [Семь неожиданных переменных Bash](https://habr.com/ru/post/451492/)
 
 ## Git
 * Article
@@ -24,6 +28,8 @@
   
 
 ## Kubernetes
+* Article
+  * [Deployment strategies](https://container-solutions.com/kubernetes-deployment-strategies)
 * Man
   * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   * [Setup kubernetes](https://kubernetes.io/docs/setup/)

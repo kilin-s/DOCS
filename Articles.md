@@ -48,7 +48,7 @@
 ## Monitoring 
 * Article
   * [Более 80 Средств мониторинга linux](https://habr.com/ru/company/ua-hosting/blog/281519/)
-  * [Мониторинг мертв? - Да здравствует мониторингъ(https://habr.com/ru/company/itsumma/blog/448602/)
+  * [Мониторинг мертв? - Да здравствует мониторинг](https://habr.com/ru/company/itsumma/blog/448602/)
 
  
 ## OpenVPN

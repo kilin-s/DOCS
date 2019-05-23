@@ -13,6 +13,7 @@
   * [OpenVPN](#openvpn)
   * [Rancher 2](#rancher-2)
   * [SRE](#sre)
+  * [Testing](#testing)
 
 ## Alerts
 * Article
@@ -33,8 +34,8 @@
   * [Deployment strategies](https://container-solutions.com/kubernetes-deployment-strategies)
 * Man
   * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-  * [Setup kubernetes](https://kubernetes.io/docs/setup/)
   * [Kubernetes на голом железе за 10 минут](https://habr.com/ru/company/southbridge/blog/334846/)
+  * [Setup kubernetes](https://kubernetes.io/docs/setup/)
   * [Настройка HA кластера на голом железе, kubeadm, Heartbeat 1/3](https://habr.com/ru/company/southbridge/blog/439562/)
   * [Настройка HA кластера на голом железе, GlusterFS, MetalLB 2/3](https://habr.com/ru/company/southbridge/blog/443110/)
   * [Настройка HA кластера на голом железе, мониторинг, логи 3/3](https://habr.com/ru/company/southbridge/blog/443658/)
@@ -66,5 +67,9 @@
 * Book
   * [Site Reliability Engineering book](https://landing.google.com/sre/sre-book/toc/index.html)  
   * [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
+* Guide
+  * [Sre interview prepare guide](https://github.com/mxssl/sre-interview-prep-guide)
 
-
+## Testing
+* Article
+  * [Don't test in production? Test in production!](https://opensource.com/article/19/5/dont-test-production)

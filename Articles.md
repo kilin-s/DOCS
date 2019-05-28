@@ -10,6 +10,7 @@
   * [Kubernetes](#kubernetes)
   * [LXD](#lxd)
   * [Monitoring](#monitoring)
+  * [NGINX](#nginx)
   * [OpenVPN](#openvpn)
   * [Rancher 2](#rancher-2)
   * [SRE](#sre)
@@ -50,6 +51,10 @@
 * Article
   * [Более 80 Средств мониторинга linux](https://habr.com/ru/company/ua-hosting/blog/281519/)
   * [Мониторинг мертв? - Да здравствует мониторинг](https://habr.com/ru/company/itsumma/blog/448602/)
+  
+## NGINX
+* Article
+  * [Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 
  
 ## OpenVPN

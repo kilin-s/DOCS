@@ -2,6 +2,6 @@
 
 delete all untaget images
 
-   <?bash
-       docker image rm $(docker image ls --format "{{.ID}}" --filter "dangling=true")
-   ?>
+```console
+foo@bar:~$ docker image rm $(docker image ls --format "{{.ID}}" --filter "dangling=true")
+```

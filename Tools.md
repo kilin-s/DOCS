@@ -23,12 +23,15 @@
  ## Logs
  * [red](https://github.com/antonmedv/red) - анализ логов в терминале.
  
- ## Ssl
- 
- * [ssllabs.com](https://www.ssllabs.com/ssltest/) - анализ ssl конфигурации сайта
+ ## Perfromance
+ * [perf](https://perf.wiki.kernel.org/index.php/) - инструмент для анализа производительности в Linux
  
  ## Prometheus
  * [exporter-exporter](https://github.com/QubitProducts/exporter_exporter) - реверс прокси для prometheus экспортеров.
+ 
+ ## Ssl
+  * [ssllabs.com](https://www.ssllabs.com/ssltest/) - анализ ssl конфигурации сайта
+
   
  ## version-control
  * [bump2version](https://github.com/c4urself/bump2version) - управление версиями исходного кода.

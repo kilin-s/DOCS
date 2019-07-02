@@ -9,7 +9,7 @@
   * [Docker](#docker)
   * [Git](#git)
   * [Kubernetes](#kubernetes)
-  * [Linux perfomance](#Linux perfomance)
+  * [Linux perfomance](#Linux_perfomance)
   * [LXD](#lxd)
   * [Monitoring](#monitoring)
   * [NGINX](#nginx)
@@ -40,7 +40,7 @@
 ## Kubernetes
 * Article
   * [Deployment strategies](https://container-solutions.com/kubernetes-deployment-strategies)
-  * [Production pattern](Kubernetes Production Patterns)
+  * [Production pattern](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * Man
   * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   * [Kubernetes на голом железе за 10 минут](https://habr.com/ru/company/southbridge/blog/334846/)

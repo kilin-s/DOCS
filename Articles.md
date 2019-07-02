@@ -6,14 +6,17 @@
 * [Articles](#Articles")
   * [Alerts](#alerts) 
   * [Bash](#bash)
+  * [Docker](#docker)
   * [Git](#git)
   * [Kubernetes](#kubernetes)
+  * [Linux perfomance](#Linux perfomance)
   * [LXD](#lxd)
   * [Monitoring](#monitoring)
   * [NGINX](#nginx)
   * [OpenVPN](#openvpn)
   * [Rancher 2](#rancher-2)
   * [SRE](#sre)
+  * [SSH](#ssh)
   * [Testing](#testing)
 
 ## Alerts
@@ -24,6 +27,10 @@
 * Article
   * [Семь неожиданных переменных Bash](https://habr.com/ru/post/451492/)
 
+## Docker
+* Article
+  * [10 Docker Image Security Best Practices](https://snyk.io/blog/10-docker-image-security-best-practices/)
+
 ## Git
 * Article
   * [Github flow](https://habr.com/ru/post/189046/)
@@ -33,6 +40,7 @@
 ## Kubernetes
 * Article
   * [Deployment strategies](https://container-solutions.com/kubernetes-deployment-strategies)
+  * [Production pattern](Kubernetes Production Patterns)
 * Man
   * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   * [Kubernetes на голом железе за 10 минут](https://habr.com/ru/company/southbridge/blog/334846/)
@@ -40,6 +48,10 @@
   * [Настройка HA кластера на голом железе, kubeadm, Heartbeat 1/3](https://habr.com/ru/company/southbridge/blog/439562/)
   * [Настройка HA кластера на голом железе, GlusterFS, MetalLB 2/3](https://habr.com/ru/company/southbridge/blog/443110/)
   * [Настройка HA кластера на голом железе, мониторинг, логи 3/3](https://habr.com/ru/company/southbridge/blog/443658/)
+ 
+## Linux perfomance
+* Article
+  * [Тюним память и сетевой стек в Linux](https://habr.com/ru/company/odnoklassniki/blog/266005/)
 
 ## LXD
 * Man
@@ -56,8 +68,9 @@
   
 ## NGINX
 * Article
+  * [Nginx tuning tips tls](https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/)
   * [Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
-
+  
  
 ## OpenVPN
 * Man
@@ -76,6 +89,11 @@
   * [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
 * Guide
   * [Sre interview prepare guide](https://github.com/mxssl/sre-interview-prep-guide)
+  
+## SSH
+
+* Guide
+  * [Openssh security best practice](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 
 ## Testing
 * Article

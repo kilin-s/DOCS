@@ -25,6 +25,7 @@
  
  ## Perfromance
  * [perf](https://perf.wiki.kernel.org/index.php/) - инструмент для анализа производительности в Linux
+ * [smem](https://habr.com/ru/company/otus/blog/459234/) - распределение памяти в linux
  
  ## Prometheus
  * [exporter-exporter](https://github.com/QubitProducts/exporter_exporter) - реверс прокси для prometheus экспортеров.

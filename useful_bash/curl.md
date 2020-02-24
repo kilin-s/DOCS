@@ -1,8 +1,10 @@
-#CURL
+ #CURL
 
 cURL supports formatted output for the details of the request (see the cURL manpage for details, under -w, –write-out <format>). For our purposes we’ll focus just on the timing details that are provided.
 
 Create a new file, curl-format.txt, and paste in:
+
+```
 
     time_namelookup:  %{time_namelookup}\n
        time_connect:  %{time_connect}\n
@@ -12,12 +14,11 @@ Create a new file, curl-format.txt, and paste in:
  time_starttransfer:  %{time_starttransfer}\n
                     ----------\n
          time_total:  %{time_total}\n
+ ```
+ 
 Make a request:
 
 curl -w "@curl-format.txt" -o /dev/null -s "http://wordpress.com/"
-Or on Windows, it's...
-
-curl -w "@curl-format.txt" -o NUL -s "http://wordpress.com/"
 
 
 What this does:
@@ -27,7 +28,7 @@ What this does:
 "http://wordpress.com/" is the URL we are requesting. Use quotes particularly if your URL has "&" query string parameters
 
 
-
+```
 And here is what you get back:
    time_namelookup:  0.001
       time_connect:  0.037
@@ -37,10 +38,9 @@ And here is what you get back:
 time_starttransfer:  0.092
                    ----------
         time_total:  0.164
+ ```
 
 
-Make a Windows shortcut (aka BAT file)
-Put this command in CURLTIME.BAT (in the same folder as curl.exe)
 
 curl -w "@%~dp0curl-format.txt" -o NUL -s %*
 Then you can simply call...

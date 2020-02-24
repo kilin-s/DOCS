@@ -52,6 +52,8 @@
 ## Linux perfomance
 * Article
   * [Тюним память и сетевой стек в Linux](https://habr.com/ru/company/odnoklassniki/blog/266005/)
+* Man
+  * [Linux perfomance](http://www.brendangregg.com/linuxperf.html)
 
 ## LXD
 * Man

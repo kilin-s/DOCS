@@ -69,6 +69,7 @@
 ## NGINX
 * Article
   * [Nginx tuning tips tls](https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/)
+  * [Nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)
   * [Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
   
  

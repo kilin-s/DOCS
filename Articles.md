@@ -9,6 +9,7 @@
   * [Docker](#docker)
   * [Git](#git)
   * [Kubernetes](#kubernetes)
+  * [LINUX](#LINUX)
   * [Linux perfomance](#Linux_perfomance)
   * [LXD](#lxd)
   * [Monitoring](#monitoring)
@@ -48,10 +49,16 @@
   * [Настройка HA кластера на голом железе, kubeadm, Heartbeat 1/3](https://habr.com/ru/company/southbridge/blog/439562/)
   * [Настройка HA кластера на голом железе, GlusterFS, MetalLB 2/3](https://habr.com/ru/company/southbridge/blog/443110/)
   * [Настройка HA кластера на голом железе, мониторинг, логи 3/3](https://habr.com/ru/company/southbridge/blog/443658/)
+  
+## LINUX
+* Article
+  * [all about linux swap space](https://www.linux.com/news/all-about-linux-swap-space/)
+  * [in defence of swap](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
  
 ## Linux perfomance
 * Article
   * [Тюним память и сетевой стек в Linux](https://habr.com/ru/company/odnoklassniki/blog/266005/)
+  * [See Bandwidth Usage Per Process](https://www.cyberciti.biz/faq/linux-find-out-what-process-is-using-bandwidth/)
 * Man
   * [Linux perfomance](http://www.brendangregg.com/linuxperf.html)
 

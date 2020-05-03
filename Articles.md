@@ -6,6 +6,7 @@
 * [Articles](#Articles")
   * [Alerts](#alerts) 
   * [Bash](#bash)
+  * [DevOps](#devops)
   * [Docker](#docker)
   * [Git](#git)
   * [Kubernetes](#kubernetes)
@@ -27,6 +28,10 @@
 ## BASH
 * Article
   * [Семь неожиданных переменных Bash](https://habr.com/ru/post/451492/)
+  
+## DevOps
+* Man
+ * [оценка качества девопс процессов](https://github.com/adidas/adidas-devops-maturity-framework/blob/master/framework/devops_maturity_framework.md)
 
 ## Docker
 * Article

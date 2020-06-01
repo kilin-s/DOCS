@@ -59,6 +59,7 @@
 * Article
   * [all about linux swap space](https://www.linux.com/news/all-about-linux-swap-space/)
   * [in defence of swap](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+  * [настраиваем oom killer в linux](https://habr.com/ru/company/southbridge/blog/464245/)
  
 ## Linux perfomance
 * Article

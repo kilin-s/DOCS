@@ -6,6 +6,7 @@
 * [Tools](#tools")
   * [Docker](#docker) 
   * [Kubernetes](#kubernetes) 
+  * [Kvm](#kvm)
   * [logs](#logs) 
   * [SSL](#ssl)
   * [Prometheus](#prometheus) 
@@ -19,6 +20,9 @@
  * [iris](https://github.com/olegsu/iris) - слушает события в Kubernetes, фильтрует их и оправляет в вебхук.
  * [kube-janitor](https://github.com/hjacobs/kube-janitor) - планировщик удаления ресурсов k8s.
  * [popeye](https://github.com/derailed/popeye) - сканирует ресурсы вашего Kubernetes кластера и предупреждает о потенциальных проблемах.
+ 
+ ## Kvm
+ * [webvirtcloud](https://github.com/retspen/webvirtcloud) - веб интерфейс для управления kvm
  
  ## Logs
  * [red](https://github.com/antonmedv/red) - анализ логов в терминале.

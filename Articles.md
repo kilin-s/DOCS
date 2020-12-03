@@ -79,6 +79,7 @@
   * [Более 80 Средств мониторинга linux](https://habr.com/ru/company/ua-hosting/blog/281519/)
   * [Ключевые метрики](https://medium.com/@Nklya/%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%8B%D0%B5-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8-%D0%B2-%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B5-b6f184cf1154)
   * [Мониторинг мертв? - Да здравствует мониторинг](https://habr.com/ru/company/itsumma/blog/448602/)
+  * [Контролируем производительность фронтенда с помощью Instana](https://habr.com/ru/company/proto/blog/531008/)
   
   
 ## NGINX

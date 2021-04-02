@@ -9,6 +9,7 @@
   * [Kvm](#kvm)
   * [logs](#logs) 
   * [SSL](#ssl)
+  * [Security](#security)
   * [Prometheus](#prometheus) 
   * [Version-control](#version-control) 
  
@@ -33,6 +34,9 @@
  
  ## Prometheus
  * [exporter-exporter](https://github.com/QubitProducts/exporter_exporter) - реверс прокси для prometheus экспортеров.
+
+ ## Security
+ * [Secret scanner] https://github.com/deepfence/SecretScanner
  
  ## Ssl
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - анализ ssl конфигурации сайта

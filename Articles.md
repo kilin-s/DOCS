@@ -36,6 +36,7 @@
 ## Docker
 * Article
   * [10 Docker Image Security Best Practices](https://snyk.io/blog/10-docker-image-security-best-practices/)
+  * [top 20 Dockerfile best practices](https://sysdig.com/blog/dockerfile-best-practices/)
 
 ## Git
 * Article
@@ -45,7 +46,7 @@
 
 ## Kubernetes
 * Article
-  * [Deployment strategies](https://container-solutions.com/kubernetes-deployment-strategies)
+  * [Deployment strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies)
   * [Production pattern](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * Man
   * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
